@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/quizliveapp_frontend/static/css/main.6d4828ac.chunk.css",
+    "main.js": "/quizliveapp_frontend/static/js/main.35e1f636.chunk.js",
+    "main.js.map": "/quizliveapp_frontend/static/js/main.35e1f636.chunk.js.map",
+    "runtime-main.js": "/quizliveapp_frontend/static/js/runtime-main.eeaf6f49.js",
+    "runtime-main.js.map": "/quizliveapp_frontend/static/js/runtime-main.eeaf6f49.js.map",
+    "static/js/2.8119890b.chunk.js": "/quizliveapp_frontend/static/js/2.8119890b.chunk.js",
+    "static/js/2.8119890b.chunk.js.map": "/quizliveapp_frontend/static/js/2.8119890b.chunk.js.map",
+    "static/js/3.e1ec59f3.chunk.js": "/quizliveapp_frontend/static/js/3.e1ec59f3.chunk.js",
+    "static/js/3.e1ec59f3.chunk.js.map": "/quizliveapp_frontend/static/js/3.e1ec59f3.chunk.js.map",
+    "index.html": "/quizliveapp_frontend/index.html",
+    "static/css/main.6d4828ac.chunk.css.map": "/quizliveapp_frontend/static/css/main.6d4828ac.chunk.css.map",
+    "static/js/2.8119890b.chunk.js.LICENSE.txt": "/quizliveapp_frontend/static/js/2.8119890b.chunk.js.LICENSE.txt",
+    "static/media/babla.acaa2b07.png": "/quizliveapp_frontend/static/media/babla.acaa2b07.png",
+    "static/media/bgHome.dafad170.png": "/quizliveapp_frontend/static/media/bgHome.dafad170.png",
+    "static/media/countdown.ee08c7c9.gif": "/quizliveapp_frontend/static/media/countdown.ee08c7c9.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeaf6f49.js",
+    "static/js/2.8119890b.chunk.js",
+    "static/css/main.6d4828ac.chunk.css",
+    "static/js/main.35e1f636.chunk.js"
+  ]
+}

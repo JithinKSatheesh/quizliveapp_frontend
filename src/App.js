@@ -1,25 +1,19 @@
-import logo from './logo.svg';
+import './bootstrap/bootstrap.min.css'
 import './App.css';
+import PageContextProvider from './components/context'
+import bgHome from './images/bgHome.png'
+import Quiz from './components/quiz'
+import Home from './components/Home'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <PageContextProvider>
+      <div style={{ backgroundImage: `url(${bgHome})`, backgroundSize: 'cover' }} className="App">
+        <Home />
+      </div>
+    </PageContextProvider>
   );
 }
+
 
 export default App;

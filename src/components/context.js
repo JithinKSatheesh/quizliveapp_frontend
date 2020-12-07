@@ -2,7 +2,7 @@ import React, { useState, createContext, useEffect } from 'react';
 import axios from 'axios'
 import Pusher from 'pusher-js';
 
-const Base_URL = 'http://localhost:8000'
+const Base_URL = 'https://banzanlivequiz.herokuapp.com'
 
 
 
